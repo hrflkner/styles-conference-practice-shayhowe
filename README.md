@@ -1,4 +1,4 @@
-# 100Devs / Shay Howe Site Practice
+# Shay Howe Site Practice (100Devs '22 Cohort)
 
 This code-along project was completed as a review of basic HTML & CSS.
 
